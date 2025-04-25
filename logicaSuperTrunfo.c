@@ -130,7 +130,7 @@ int main() {
             break;
 
         default:
-            printf("Opção errada!\n");
+            printf("Opção errada!! Escolha de 1 até 5\n");
             break;
     }
 
